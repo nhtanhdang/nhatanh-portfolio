@@ -2,19 +2,21 @@
 
 ---
 
-### Category Name 1 
+### Projects in Data Science & Machine Learning
 
 [Movie Rating Prediction](https://drive.google.com/file/d/1N-3p2eIWgbVqVOzvXjhUCwJ6jh_lpR1w/view?usp=share_link)
 <img src="images/movie.png?raw=true"/>
-In this project, I built a classifier to predict movie ratings based on Rotten Tomatoes movie and review data. I employed two approaches: 1) Random Forest using numerical/encoded features, and 2) Sentiment analysis on movie review content. Additionally, I implemented Bayesian hyperparameter tuning and feature selection for improved performance. 
+Developed a classifier to predict movie ratings using Rotten Tomatoes data. Employed two approaches: Random Forest with numerical/encoded features and sentiment analysis on review content. Implemented Bayesian hyperparameter tuning and feature selection to enhance performance.
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Archery Club Data Management System](https://github.com/nhtanhdang/Club-Management-System)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+Designed a relational database management system and performed data analysis for a large archery club. Utilised IBM SPSS Statistics to conduct independent samples t-tests, providing insights to support decision-making and improve club performance.
 
 ---
-[Project 3 Title](http://example.com/)
+[Interactive Data Visualisation Website](https://nhtanhdang.github.io/Data-Visualisation-Website/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+Collaborated on a website that visualises health and nutrition data using responsive, interactive charts and graphs. Leveraged version control and agile methodologies, showcasing expertise in front-end development, data visualisation, and UX design.
 
 ---
 
