@@ -7,7 +7,7 @@
 [Movie Rating Prediction](https://drive.google.com/file/d/1N-3p2eIWgbVqVOzvXjhUCwJ6jh_lpR1w/view?usp=share_link)
 <img src="images/movie.png?raw=true"/>
 Developed a classifier to predict movie ratings using Rotten Tomatoes data. Employed two approaches: Random Forest with numerical/encoded features and sentiment analysis on review content. Implemented Bayesian hyperparameter tuning and feature selection to enhance performance.
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#)]
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 
 ---
 [Archery Club Data Management System](https://github.com/nhtanhdang/Club-Management-System)
