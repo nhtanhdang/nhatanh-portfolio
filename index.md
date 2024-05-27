@@ -5,6 +5,7 @@
 ### Movie Rating Prediction
 <img src="images/movie.png?raw=true"/>
 Developed a classifier to predict movie ratings using Rotten Tomatoes data. Employed two approaches: Random Forest with numerical/encoded features and sentiment analysis on review content. Implemented Bayesian hyperparameter tuning and feature selection to enhance performance.
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
 [View code on Colab](https://drive.google.com/file/d/1N-3p2eIWgbVqVOzvXjhUCwJ6jh_lpR1w/view?usp=sharing)
@@ -14,6 +15,7 @@ Developed a classifier to predict movie ratings using Rotten Tomatoes data. Empl
 ### Customer Profile Analysis
 <img src="images/customer_analysis.png?raw=true"/>
 Conducted comprehensive exploratory data analysis (EDA) of Aerofit treadmill sales data. The project included a thorough examination of customer segmentation based on age categories, providing data-driven suggestions for business optimisation.
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
 [View code on Colab](https://drive.google.com/file/d/1ArE853JGId6NideY0wJPkqYWnvKvRV8C/view?usp=sharing)
