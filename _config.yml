@@ -1,9 +1,7 @@
 title: Nhat Anh Dang # your name (or website title) here
 logo: "/images/avatar.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Passionate data enthusiast with a foundation in statistics and applied mathematics. Experienced in leveraging data manipulation, analysis, and visualisation techniques to derive actionable insights. Deeply interested in machine learning and eager to apply my skills to drive impactful solutions and contribute to innovative projects in the data science domain.
+  Passionate data enthusiast with a foundation in statistics and applied mathematics. Experienced in leveraging data manipulation, analysis, and visualisation techniques to derive actionable insights. 
   <br><br>
   <a href="https://www.linkedin.com/in/nhat-anh-dang/">View My LinkedIn Profile</a> 
   
-remote_theme: pages-themes/minimal@v0.2.0
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
