@@ -45,6 +45,8 @@ Create an interactive Tableau dashboard to allow users to explore the key metric
 <img src="images/scatter.png?raw=true"/>
 Collaborated on a website that visualises health and nutrition data using responsive, interactive charts and graphs. Leveraged version control and agile methodologies, showcasing expertise in front-end development, data visualisation, and UX design.
 
+[![](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)](#) 
+
 [View website](https://nhtanhdang.github.io/Data-Visualisation-Website/)
 
 ---
