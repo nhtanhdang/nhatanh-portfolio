@@ -1,10 +1,8 @@
-## Portfolio
+## Projects in Data Science & Machine Learning
 
 ---
 
-### Projects in Data Science & Machine Learning
-
-[Movie Rating Prediction]
+### Movie Rating Prediction
 <img src="images/movie.png?raw=true"/>
 Developed a classifier to predict movie ratings using Rotten Tomatoes data. Employed two approaches: Random Forest with numerical/encoded features and sentiment analysis on review content. Implemented Bayesian hyperparameter tuning and feature selection to enhance performance.
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Google-white?logo=Google)](#) [![](https://img.shields.io/badge/Apple-white?logo=Apple)](#)
@@ -12,14 +10,14 @@ Developed a classifier to predict movie ratings using Rotten Tomatoes data. Empl
 [View code on Colab](https://drive.google.com/file/d/1N-3p2eIWgbVqVOzvXjhUCwJ6jh_lpR1w/view?usp=sharing)
 
 ---
-[Archery Club Data Management System]
+### Archery Club Data Management System
 <img src="images/hypothesis_test.jpg?raw=true"/>
 Designed a relational database management system and performed data analysis for a large archery club. Utilised IBM SPSS Statistics to conduct independent samples t-tests, providing insights to support decision-making and improve club performance.
 
 [View code on Github](https://github.com/nhtanhdang/Club-Management-System)
 
 ---
-[Interactive Data Visualisation Website]
+### Interactive Data Visualisation Website
 <img src="images/scatter.png?raw=true"/>
 Collaborated on a website that visualises health and nutrition data using responsive, interactive charts and graphs. Leveraged version control and agile methodologies, showcasing expertise in front-end development, data visualisation, and UX design.
 
