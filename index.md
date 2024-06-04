@@ -2,6 +2,16 @@
 
 ---
 
+### House Price Prediction 
+<img src="images/house_price.png?raw=true"/>
+In this project, I built a machine learning model to predict median house prices in California. I employed batch learning for efficient training and utilised various techniques like feature engineering, imputation, scaling, and selection to prepare the data. I then tuned a Random Forest Regression model using Randomised Search and ensured generalisability through cross-validation.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) 
+
+[View code on Github](https://github.com/nhtanhdang/Machine_Learning_Projects/tree/main/house_price_prediction)
+
+---
+
 ### Movie Rating Prediction
 <img src="images/movie.png?raw=true"/>
 Developed a classifier to predict movie ratings using Rotten Tomatoes data. Employed two approaches: Random Forest with numerical/encoded features and sentiment analysis on review content. Implemented Bayesian hyperparameter tuning and feature selection to enhance performance.
