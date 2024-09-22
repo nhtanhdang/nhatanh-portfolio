@@ -2,6 +2,16 @@
 
 ---
 
+### Employee Turnover Forecasting
+<img src="images/people-analytics?raw=true"/>
+Developed and implemented an employee turnover prediction model using HR analytics data. Leveraged Python to perform exploratory data analysis, feature engineering, and data visualization. Addressed class imbalance through resampling techniques and implemented multiple machine learning models including Random Forest, XGBoost, and neural networks. Optimized model performance using hyperparameter tuning and ensemble methods. The final model effectively identified employees at risk of leaving, providing actionable insights for HR decision-making. 
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) 
+
+[View code on Colab](https://colab.research.google.com/drive/1FmzSt_9AcANSWn38tcmDqTafZxvTzGgY#scrollTo=33EUFNfZ2Jop)
+
+---
+
 ### House Price Prediction 
 <img src="images/house_price.png?raw=true"/>
 In this project, I built a machine learning model to predict median house prices in California. I employed batch learning for efficient training and utilised various techniques like feature engineering, imputation, scaling, and selection to prepare the data. I then tuned a Random Forest Regression model using Randomised Search and ensured generalisability through cross-validation.
